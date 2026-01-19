@@ -1,0 +1,9 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "GD657SN286.com.characterecho.mobileapp",
+      "paths": ["/p/*"]
+    }]
+  }
+}
