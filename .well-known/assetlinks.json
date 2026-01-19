@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.characterecho.mobile_app",
-    "sha256_cert_fingerprints": ["SHA256_FINGERPRINT_PLACEHOLDER"]
+    "sha256_cert_fingerprints": ["31:13:88:ED:D6:23:EE:3B:0E:08:82:07:37:D0:36:98:C0:4D:3F:AB:6F:A0:47:40:90:D4:3A:86:0E:37:0F:54"]
   }
 }]
